@@ -15,11 +15,11 @@ Utiliza-se como SGBD padrao o Banco de Dados Postgresql.
 - É importante saber que o carro pode ter várias apólices vinculadas a ele, mas apenas uma vigente.
 - E sempre que houver um sinistro é preciso saber qual o carro envolvido, além do número da apólice, uma vez que este precisa ser assegurado por uma apólice. Mesmo que o atendimento seja para terceiros vai ser registrado no sinistro do carro vinculado à apólice da empresa em questão. 
 
-## **Modelo Logico**
-![modelo_conceitual](media/modelo_conceitual.jpeg)
-
 ## **Modelo Conceitual**
 ![modelo_logico](media/modelo_logico.jpeg)
+
+## **Modelo Logico**
+![modelo_conceitual](media/modelo_conceitual.jpeg)
 
 ## **Modelo Fisico**  
 ![modelo_fisico](media/modelo_fisico.png)
