@@ -1,6 +1,6 @@
 # Criacao Banco de Dados Relacional
 
-Projeto pratico com a criacao de um banco de dados relacional realizado como atividade avaliativa do BootCamp Engenheiro de Dados da XPEducacao.
+Projeto pratico com a criacao de um banco de dados relacional desenvolvido como atividade avaliativa do BootCamp Engenheiro de Dados da XPEducacao.
 
 Visando tornar o projeto compativel com o conceito de **Bancos de Dados Evolutivos**, utiliza-se as bibliotecas `alembic` e `sqlalchemy` para o deploy automatico do modelo fisico do banco de dados.
 
