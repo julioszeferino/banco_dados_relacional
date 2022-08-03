@@ -1,4 +1,4 @@
-# Criacao Banco de Dados Relacional
+# Criacao de um Banco de Dados Relacional
 
 Projeto pratico com a criacao de um banco de dados relacional desenvolvido como atividade avaliativa do BootCamp Engenheiro de Dados da XPEducacao.
 
